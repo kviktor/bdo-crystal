@@ -1,0 +1,1038 @@
+[
+    {
+        "slot": "Weapon", 
+        "shattering": "Very Low", 
+        "name": "Ancient Magic Crystal - Agony", 
+        "rarity": "Orange", 
+        "effect": "Attack Speed & Casting Speed +1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal - Carmae", 
+        "rarity": "Orange", 
+        "effect": "Critical Hit Rate & Attack Speed + 1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Very Low", 
+        "name": "Ancient Magic Crystal - Crimson Flame", 
+        "rarity": "Orange", 
+        "effect": "Critical Hit +2"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Very Low", 
+        "name": "Ancient Magic Crystal - Destruction", 
+        "rarity": "Orange", 
+        "effect": "Attack Speed +2"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Very Low", 
+        "name": "Ancient Magic Crystal - Enchantment", 
+        "rarity": "Orange", 
+        "effect": "Casting Speed +2"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Very Low", 
+        "name": "Ancient Magic Crystal - Temptation", 
+        "rarity": "Orange", 
+        "effect": "Attack Speed & Critical Hit Rate +1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Black Crystal - Carmae", 
+        "rarity": "Orange", 
+        "effect": "Critical Hit Rate & Attack Speed +1 & AP +2"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "N/A", 
+        "name": "Red Battlefield Crystal: Carmae", 
+        "rarity": "Orange", 
+        "effect": "Critical Hit Rate & Attack Speed +1 & Human Damage +3"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Might be", 
+        "name": "Red Battlefield Crystal: Power", 
+        "rarity": "Orange", 
+        "effect": "Attack +5 & Human Damage +2"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "Low", 
+        "name": "Awakened Spirit's Crystal", 
+        "rarity": "Orange", 
+        "effect": "Max HP +150 & AP +5"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "High", 
+        "name": "Black Spirit Crystal", 
+        "rarity": "Orange", 
+        "effect": "Max HP +100 & AP +5"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "Might be", 
+        "name": "Red Spirit Crystal", 
+        "rarity": "Orange", 
+        "effect": "MaxHP +100 & Attack +5 & Human Damage +3"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal - Harphia", 
+        "rarity": "Orange", 
+        "effect": "Max HP +50 & HP Recovery +5"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "Low", 
+        "name": "Black Magic Crystal - Harphia", 
+        "rarity": "Orange", 
+        "effect": "Max HP +50 & HP Recovery +5 & Evasion +2"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "Might be", 
+        "name": "Red Battlefield Crystal: Harsha", 
+        "rarity": "Orange", 
+        "effect": "Max HP +50 & HP Recovery +5 & Human Damage +2"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal - Cobelinus", 
+        "rarity": "Orange", 
+        "effect": "Max HP +100 & Weight Limit +20LT"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "N/A", 
+        "name": "Black Magic Crystal - Cobelinus", 
+        "rarity": "Orange", 
+        "effect": "Max HP +100 & Weight Limit + 20LT & Damage Reduction +2"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "Might be", 
+        "name": "Red Battlefield Crystal - Comeliness", 
+        "rarity": "Orange", 
+        "effect": "Max HP +100 & Weight Limit +20LT & Human Damage +2"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal - Viper", 
+        "rarity": "Orange", 
+        "effect": "Attack Speed & Casting Speed +1"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "N/A", 
+        "name": "Black Magic Crystal - Viper", 
+        "rarity": "Orange", 
+        "effect": "Attack Speed & Casting Speed +1 & Accuracy +2"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "Might be", 
+        "name": "Red Battlefield Crystal: Viper", 
+        "rarity": "Orange", 
+        "effect": "Attack Speed & Casting Speed +1 & Human Damage +2"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal - Hystria", 
+        "rarity": "Orange", 
+        "effect": "Weight Limit +20LT & Movement Speed +1"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "N/A", 
+        "name": "Black Magic Crystal - Hystria", 
+        "rarity": "Orange", 
+        "effect": "Weight Limit +20LT & Movement Speed +1 & Endurance +150"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "Might be", 
+        "name": "Red Battlefield Crystal - Hysteria", 
+        "rarity": "Orange", 
+        "effect": "Weight Limit +20LT & Movement Speed +1 & Human Damage +2"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Crimson Flame - Carnage", 
+        "rarity": "Yellow", 
+        "effect": "Beast Damage +4"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Crimson Flame - Demihuman", 
+        "rarity": "Yellow", 
+        "effect": "Demihuman Damage +4"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Crimson Flame - Human", 
+        "rarity": "Yellow", 
+        "effect": "Human Damage +4"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Crimson Flame - Power", 
+        "rarity": "Yellow", 
+        "effect": "AP +5"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Carnage", 
+        "rarity": "Yellow", 
+        "effect": "Demihuman Damage +2 & Ignore All Resistane +10%"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Carnage", 
+        "rarity": "Yellow", 
+        "effect": "Human Damage +2 & Ignore All Resistane +10%"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Carnage", 
+        "rarity": "Yellow", 
+        "effect": "Beast Damage +2 & Ignore All Resistane +10%"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Power", 
+        "rarity": "Yellow", 
+        "effect": "Attack +2 & Ignore All Resistance +10%"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Precision", 
+        "rarity": "Yellow", 
+        "effect": "All Accuracy +2 & Ignore All Resistance +10%"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Magic Crystal - Agony", 
+        "rarity": "Yellow", 
+        "effect": "Critical Hit Rate +2 & Attack Speed -1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Magic Crystal - Crimson Flame", 
+        "rarity": "Yellow", 
+        "effect": "Critical Hit Rate +1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Magic Crystal - Destruction", 
+        "rarity": "Yellow", 
+        "effect": "Attack Speed +1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Magic Crystal - Enchantment", 
+        "rarity": "Yellow", 
+        "effect": "Casting Speed +1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Magic Crystal - Meditation", 
+        "rarity": "Yellow", 
+        "effect": "Casting Speed +2 & Critical Hit Rate -1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "Low", 
+        "name": "Magic Crystal - Temptation", 
+        "rarity": "Yellow", 
+        "effect": "Attack SPeed +2 & Critical Hit Rate -1"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Enchantment - Agility", 
+        "rarity": "Yellow", 
+        "effect": "All Evasion +5"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Enchantment - Intimidation", 
+        "rarity": "Yellow", 
+        "effect": "Knockdown & Bound Resistance +25% & Evasion +3"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Enchantment - Vision", 
+        "rarity": "Yellow", 
+        "effect": "Evasion +3 & Vision Range +10m"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of the Sun - Memory", 
+        "rarity": "Yellow", 
+        "effect": "Casting Speed +2"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Agility", 
+        "rarity": "Yellow", 
+        "effect": "Evasion +2 & Knockdown/Bound Resistance +5%"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Experience", 
+        "rarity": "Yellow", 
+        "effect": "Combat EXP +10% & Knockdown/Bound Resistance +5%"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Intimidation", 
+        "rarity": "Yellow", 
+        "effect": "Knockdown/Bound Resistance +10% & Stun/Stiffnes/Freezing Resistance +5%"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Memory", 
+        "rarity": "Yellow", 
+        "effect": "Casting Speed +2 & Knockdown/Bound Resistance +5%"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Vision", 
+        "rarity": "Yellow", 
+        "effect": "Vision Range +15m & Knockdown/Bound Resistance +5%"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal - Healing", 
+        "rarity": "Yellow", 
+        "effect": "Max HP +50 & HP Recovery +3"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Abundance - Armor", 
+        "rarity": "Yellow", 
+        "effect": "Damage Reduction +5"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Abundance - Patience", 
+        "rarity": "Yellow", 
+        "effect": "Max MP/WP/SP +100"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Abundance - Resonance", 
+        "rarity": "Yellow", 
+        "effect": "Map MP/WP/SP +50 & MP/WP/SP Recovery +3"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Abundance - Vigor", 
+        "rarity": "Yellow", 
+        "effect": "Max HP +100"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Healing", 
+        "rarity": "Yellow", 
+        "effect": "HP Recovery +5"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Patience", 
+        "rarity": "Yellow", 
+        "effect": "Max MP/WP/SP +50 & Stun/Stiffness/Freezing Resistance +10%"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Resonance", 
+        "rarity": "Yellow", 
+        "effect": "MP/WP/SP Recovery +5 & Stun/Stiffness/Freezing Resistance 10%"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Vigor", 
+        "rarity": "Yellow", 
+        "effect": "Max HP +50 & Stun/Stiffness/Freezing Resistance +10%"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of the Sun - Assault", 
+        "rarity": "Yellow", 
+        "effect": "Attack Speed +2"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of the Sun - Sturdiness", 
+        "rarity": "Yellow", 
+        "effect": "Grapple Resistance +25% & Fall Damage Reduction"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of the Sun - Valor", 
+        "rarity": "Yellow", 
+        "effect": "Critical Hit Rate +2"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Assault", 
+        "rarity": "Yellow", 
+        "effect": "Attack Speed +2 & Grapple Resistance +5%"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Boulder", 
+        "rarity": "Yellow", 
+        "effect": "Weight Limit +15LT & Grapple Resistance +5%"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Precision", 
+        "rarity": "Yellow", 
+        "effect": "All Accuracy +2 & Grapple Resistance +5%"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Sturdiness", 
+        "rarity": "Yellow", 
+        "effect": "Grapple Resistance +10% & Knockback/Floating Resistance +5%"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Valor", 
+        "rarity": "Yellow", 
+        "effect": "Critical Hit Rate +2 & Grapple Resistance +5%"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Nature - Adamantite", 
+        "rarity": "Yellow", 
+        "effect": "Knockdown Resistance & Bound Resistance +25%"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Nature - Swiftness", 
+        "rarity": "Yellow", 
+        "effect": "Movement Speed +2"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Adamantite", 
+        "rarity": "Yellow", 
+        "effect": "Knockback/Floating Resistance +10% & Knockdown/Bound Resistance +5%"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Ascension", 
+        "rarity": "Yellow", 
+        "effect": "Jump +35 & Knockback/Floating Resistance +10%"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Energy", 
+        "rarity": "Yellow", 
+        "effect": "Endurance +250"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Falling", 
+        "rarity": "Yellow", 
+        "effect": "Fall Damage -15% & Knockback/Floating Resistance +10%"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Swiftness", 
+        "rarity": "Yellow", 
+        "effect": "Movement Speed +2 & Knockback/Floating Resistance +5%"
+    }, 
+    {
+        "slot": "Any", 
+        "shattering": "Low", 
+        "name": "Ancient Magic Crystal of Perfection", 
+        "rarity": "Yellow", 
+        "effect": "Luck +2"
+    }, 
+    {
+        "slot": "Any", 
+        "shattering": "High", 
+        "name": "Black Magic Crystal - Armor", 
+        "rarity": "Yellow", 
+        "effect": "Damage Reduction +2 & Stun/Stiffness/Freezing Resistance +10%"
+    }, 
+    {
+        "slot": "Any", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Perfection", 
+        "rarity": "Yellow", 
+        "effect": "Luck +1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Absorbation", 
+        "rarity": "Blue", 
+        "effect": "HP Recovery +1 on Attack"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Carnage", 
+        "rarity": "Blue", 
+        "effect": "Demihuman Damage +2"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Carnage", 
+        "rarity": "Blue", 
+        "effect": "Human Damage +2"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Carnage", 
+        "rarity": "Blue", 
+        "effect": "Beast Damage +2"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Durability", 
+        "rarity": "Blue", 
+        "effect": "Durability Reduction Resistance +10%"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Extraction", 
+        "rarity": "Blue", 
+        "effect": "MP/WP/SP Recovery +1 on Attack"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Power", 
+        "rarity": "Blue", 
+        "effect": "AP +2"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Precision", 
+        "rarity": "Blue", 
+        "effect": "All Accuracy +2"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Air Attack", 
+        "rarity": "Blue", 
+        "effect": "Air Attack Damage +1"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Back Attack", 
+        "rarity": "Blue", 
+        "effect": "Back Attack Damage +1"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Counter Attack", 
+        "rarity": "Blue", 
+        "effect": "Counter Attack Damage +1"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Critical", 
+        "rarity": "Blue", 
+        "effect": "Critical Hit Damage +1"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Down Attack", 
+        "rarity": "Blue", 
+        "effect": "Down Attack Damage +1"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Ignore Grapple Resistance", 
+        "rarity": "Blue", 
+        "effect": "Ignore Grapple Resistance +10%"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Ignore Knockback Resistance", 
+        "rarity": "Blue", 
+        "effect": "Ignore Knockback Resistance +10%"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Ignore Stun", 
+        "rarity": "Blue", 
+        "effect": "Ignore Stun Resistance +10%"
+    }, 
+    {
+        "slot": "Secondary", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Speed Attack", 
+        "rarity": "Blue", 
+        "effect": "Speed Attack Damage +1"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Agility", 
+        "rarity": "Blue", 
+        "effect": "Evasion +2"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Experience", 
+        "rarity": "Blue", 
+        "effect": "Combat EXP +10%"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Initmidation", 
+        "rarity": "Blue", 
+        "effect": "Knockdown/Bound Resistance +10%"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Memory", 
+        "rarity": "Blue", 
+        "effect": "Casting Speed +2"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Vision", 
+        "rarity": "Blue", 
+        "effect": "Vision Range +15m"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Energy", 
+        "rarity": "Blue", 
+        "effect": "Max Stamina +150"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Evasion", 
+        "rarity": "Blue", 
+        "effect": "Special Attack Evasion +10%"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Heal", 
+        "rarity": "Blue", 
+        "effect": "HP Recovery +3"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Magic Defense", 
+        "rarity": "Blue", 
+        "effect": "Magic Damage Reduction +2"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Melee Defense", 
+        "rarity": "Blue", 
+        "effect": "Melee Damage Reduction +2"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Patience", 
+        "rarity": "Blue", 
+        "effect": "Max MP/WP/SP +35"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Ranged Defense", 
+        "rarity": "Blue", 
+        "effect": "Ranged Damage Reduction +2"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Resonance", 
+        "rarity": "Blue", 
+        "effect": "MP/WP/SP Recovery +3"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Siege", 
+        "rarity": "Blue", 
+        "effect": "Siege Weapon Evasion +10%"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Vigor", 
+        "rarity": "Blue", 
+        "effect": "Max HP +35"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Assault", 
+        "rarity": "Blue", 
+        "effect": "Attack Speed +2"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Magic Attack", 
+        "rarity": "Blue", 
+        "effect": "Magic AP +2"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Melee Attack", 
+        "rarity": "Blue", 
+        "effect": "Melee AP +2"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Precision", 
+        "rarity": "Blue", 
+        "effect": "All Accuracy +2"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Ranged Attack", 
+        "rarity": "Blue", 
+        "effect": "Ranged AP +2"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Strength", 
+        "rarity": "Blue", 
+        "effect": "Weight Limit +15LT"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Sturdiness", 
+        "rarity": "Blue", 
+        "effect": "Grapple Resistance +10%"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Valor", 
+        "rarity": "Blue", 
+        "effect": "Critical Hit Rate +2"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Adamantite", 
+        "rarity": "Blue", 
+        "effect": "Knockback/Floating Resistance +10%"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Ascension", 
+        "rarity": "Blue", 
+        "effect": "Jump Height +35"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Energy", 
+        "rarity": "Blue", 
+        "effect": "Stamina +150"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Falling", 
+        "rarity": "Blue", 
+        "effect": "Fall Damage -15%"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Submergence", 
+        "rarity": "Blue", 
+        "effect": "Breath Gauge +15sec"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Swiftness", 
+        "rarity": "Blue", 
+        "effect": "Movement Speed +2"
+    }, 
+    {
+        "slot": "Any", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Infinity - Armor", 
+        "rarity": "Blue", 
+        "effect": "Damage Reduction +2"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Crimson Flame - Carnage", 
+        "rarity": "Green", 
+        "effect": "Demihuman Damage +1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Crimson Flame - Carnage", 
+        "rarity": "Green", 
+        "effect": "Human Damage +1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Crimson Flame - Carnage", 
+        "rarity": "Green", 
+        "effect": "Beast Damage +1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Crimson Flame - Power", 
+        "rarity": "Green", 
+        "effect": "AP +1"
+    }, 
+    {
+        "slot": "Weapon", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Crimson Flame - Precision", 
+        "rarity": "Green", 
+        "effect": "All Accuracy +1"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Enchantment - Agility", 
+        "rarity": "Green", 
+        "effect": "Evasion +1"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Enchantment - Experience", 
+        "rarity": "Green", 
+        "effect": "Combat EXP +5%"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Enchantment - Intimidation", 
+        "rarity": "Green", 
+        "effect": "Knockdown/Bound Resistance +5%"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Enchantment - Memory", 
+        "rarity": "Green", 
+        "effect": "Casting Speed +1"
+    }, 
+    {
+        "slot": "Helmet", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Enchantment - Vision", 
+        "rarity": "Green", 
+        "effect": "Vision Range +10m"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Abundance - Healing", 
+        "rarity": "Green", 
+        "effect": "HP Recovery +2"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Abundance - Patience", 
+        "rarity": "Green", 
+        "effect": "Max MP/WP/SP +25"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Abundance - Resonance", 
+        "rarity": "Green", 
+        "effect": "MP/WP/SP Recovery +2"
+    }, 
+    {
+        "slot": "Armor", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Abundance - Vigor", 
+        "rarity": "Green", 
+        "effect": "Max HP +25"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of the Sun - Assault", 
+        "rarity": "Green", 
+        "effect": "Attack Speed +1"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of the Sun - Boulder", 
+        "rarity": "Green", 
+        "effect": "Weight Limit +10LT"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of the Sun - Precision", 
+        "rarity": "Green", 
+        "effect": "All Accuracy +1"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of the Sun - Sturdiness", 
+        "rarity": "Green", 
+        "effect": "Grapple Resistance +5%"
+    }, 
+    {
+        "slot": "Gloves", 
+        "shattering": "High", 
+        "name": "Magic Crystal of the Sun - Valor", 
+        "rarity": "Green", 
+        "effect": "Critical Hit Rate +1"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Nature - Adamantite", 
+        "rarity": "Green", 
+        "effect": "Knockback/Floating Resistance +5%"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Nature - Ascension", 
+        "rarity": "Green", 
+        "effect": "Jump Height +25"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Nature - Energy", 
+        "rarity": "Green", 
+        "effect": "Stamina +100"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Nature - Falling", 
+        "rarity": "Green", 
+        "effect": "Fall Damage -10%"
+    }, 
+    {
+        "slot": "Shoes", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Nature - Swiftness", 
+        "rarity": "Green", 
+        "effect": "Movement Speed +1"
+    }, 
+    {
+        "slot": "Any", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Abundance - Armor", 
+        "rarity": "Green", 
+        "effect": "Damage Reduction +1"
+    }, 
+    {
+        "slot": "Any", 
+        "shattering": "High", 
+        "name": "Magic Crystal of Abundance - Relaxation", 
+        "rarity": "Green", 
+        "effect": "Additional Damage against 'Ferocious' Monsters +1"
+    }
+]

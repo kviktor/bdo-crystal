@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Black Desert Online Crystal Database">
+    <meta name="author" content="kviktor">
+    <link rel="icon" href="favicon.ico">
+    <title>Black Desert Online Crystal DB</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      body { font-size: 0.9rem; }
+      table { margin-top: 2rem; }
+      .row { margin-top: 1.5rem; }
+      [ng-cloak] { display: none !important; }
+      #copy { text-align: right; margin-bottom: 1rem; }
+    </style>
+  </head>
+
+  <body ng-controller="crystalController">
+    <a href="https://github.com/kviktor/bdo-crystal"><img style="z-index: 9999999999999999999; position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
+    <nav class="navbar navbar-full navbar-dark bg-inverse">
+      <a class="navbar-brand" href="#">Black Desert Online Crystal DB</a>
+    </nav>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-4">
+          <label for="filter">Filter</label>
+          <input type="text" class="form-control" ng-model="filter" placeholder="Text ..." ng-init="filter = ''">
+        </div>
+        <div class="col-sm-4">
+          <label for="rarity">Rarity</label>
+          <select class="form-control" ng-model="rarity" ng-options="s for s in rarities" ng-init="rarity = rarities[0]">
+          </select>
+        </div>
+        <div class="col-sm-4">
+          <label for="socket">Socket</label>
+          <select class="form-control" ng-model="socket" ng-options="s for s in sockets" ng-init="socket = sockets[0]">
+          </select>
+        </div>
+
+      </div><!-- /.row -->
+      <div class="table-responsive">
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Effect</th>
+              <th style="white-space: nowrap;">Shattering %</th>
+              <th>Socket</th>
+              <th>Rarity</th>
+            </tr>
+          </thead>
+          <tbody ng-cloak>
+            <tr ng-repeat="c in crystals" ng-if="show(c)">
+              <td>{{ c.name }}</td>
+              <td>{{ c.effect }}</td>
+              <td>{{ c.shattering }}</td>
+              <td>{{ c.slot }}</td>
+              <td>{{ c.rarity }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <hr />
+      <div id="copy">
+        Made by
+        <a href="https://github.com/kviktor">kviktor</a>
+        based on the
+        <a href="https://bitbucket.org/CTJansson/crystaldb">work</a>
+        of
+        <a href="https://www.reddit.com/user/Kokefageln">/u/Kokefageln</a>.
+      </div>
+    </div><!-- /.container -->
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+    <script src="crystal.js"></script>
+  </body>
+</html>
