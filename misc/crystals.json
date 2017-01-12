@@ -8,13 +8,6 @@
     },
     {
         "slot": "Weapon",
-        "shattering": "Very Low",
-        "name": "Ancient Magic Crystal - Enchantment",
-        "rarity": "Orange",
-        "effect": "Casting Speed +2"
-    },
-    {
-        "slot": "Weapon",
         "shattering": "Low",
         "name": "Black Crystal - Carmae",
         "rarity": "Orange",
@@ -628,13 +621,6 @@
         "name": "Magic Crystal of Enchantment - Intimidation",
         "rarity": "Green",
         "effect": "Knockdown/Bound Resistance +5%"
-    },
-    {
-        "slot": "Helmet",
-        "shattering": "High",
-        "name": "Magic Crystal of Enchantment - Intimidation",
-        "rarity": "Blue",
-        "effect": "Knockdown/Bound Resistance +10%"
     },
     {
         "slot": "Helmet",
