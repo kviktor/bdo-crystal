@@ -9,7 +9,7 @@ app.controller('crystalController', function($scope, $http) {
     $scope.crystals = res.data;
   });
 
-  $scope.sockets = ["All", "Weapon", "Offhand", "Gloves", "Shoes", "Helmet", "Armor"];
+  $scope.sockets = ["All", "Weapon", "Secondary", "Gloves", "Shoes", "Helmet", "Armor", "Any"];
   $scope.rarities = ["All", "Green", "Blue", "Yellow", "Orange"];
 
   $scope.show = function(item) {

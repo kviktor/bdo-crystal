@@ -749,13 +749,6 @@
         "effect": "Damage Reduction +1"
     },
     {
-        "slot": "Any",
-        "shattering": "High",
-        "name": "Magic Crystal of Abundance - Relaxation",
-        "rarity": "Green",
-        "effect": "Additional Damage against 'Ferocious' Monsters +1"
-    },
-    {
         "slot": "Shoes",
         "shattering": "Might be",
         "name": "Red Battlefield Crystal: Adamantine",
